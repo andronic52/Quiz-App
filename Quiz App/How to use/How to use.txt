@@ -1,0 +1,25 @@
+Here's a step-by-step guide on how to use my calculator on GitHub:
+
+Copy the code: Go to my GitHub repository and locate the calculator html and css code. Select all of the code of the html and copy it.
+
+Open Visual Studio Code: If you don't have Visual Studio Code installed, you can download it from the official website and install it on your computer.
+
+Paste the code: Open Visual Studio Code and create a new html file like (calculator.html). Paste the copied code into the new file.
+
+Repeat the process made before but now with the css code, the file must end with .css instead of .html and again with the javascript file, it must end in .js.
+
+Go to the images file and download all the images, then go to visual studio code where you have the other 2 files and alocate them there.
+
+Install the Live Server extension: In Visual Studio Code, click on the Extensions icon on the left sidebar (it looks like four squares). 
+
+Search for "Live Server" in the Extensions Marketplace and click on the "Install" button next to the Live Server extension.
+
+Open the HTML file: Locate the HTML file in your project, which contains the calculator code. 
+
+Right-click on the HTML file and select "Open with Live Server" from the context menu.
+
+Use the calculator: A new browser window will open, displaying my calculator. You can now use it to perform calculations.
+
+That's it! You have successfully set up and can now use my calculator from GitHub using Visual Studio Code and the Live Server extension. 
+
+Remember to share the GitHub repository link with others so they can follow these steps to use my calculator as well!
