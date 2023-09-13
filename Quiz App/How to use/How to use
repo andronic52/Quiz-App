@@ -16,8 +16,10 @@ Open the HTML file: Locate the HTML file in your project, which contains the cal
 
 Right-click on the HTML file and select "Open with Live Server" from the context menu.
 
-Use the calculator: A new browser window will open, displaying my calculator. You can now use it to perform calculations.
+To change te questions you can go to the script.js file and change as you like the questions already made.
 
-That's it! You have successfully set up and can now use my calculator from GitHub using Visual Studio Code and the Live Server extension. 
+If you want to add questions you can go to the script.js file and on line 37 add a , after } press enter and copy and past the thing above, repeat to add more.
 
-Remember to share the GitHub repository link with others so they can follow these steps to use my calculator as well!
+That's it! You have successfully set up and can now use my quiz app from GitHub using Visual Studio Code and the Live Server extension. 
+
+Remember to share the GitHub repository link with others so they can follow these steps to use my quiz app as well!
